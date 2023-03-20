@@ -1,3 +1,3 @@
 # Clase01
 
-Se realizo los Ejercicios 1,2,3 y 4.
+Se realizo los ejercicios 1a,1b,1c,1d y 2.
